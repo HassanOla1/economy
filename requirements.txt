@@ -1,6 +1,7 @@
-# frontend/frontend_requirements.txt
+# requirements.txt
 streamlit==1.24.0
 requests==2.31.0
 pandas==2.0.0
 plotly==5.15.0
 streamlit-option-menu==0.3.2
+pillow==10.2.0  # Use a version compatible with Python 3.13
